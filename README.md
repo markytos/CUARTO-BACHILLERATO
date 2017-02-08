@@ -18,4 +18,4 @@
 
 8.En HTLM también tiene la opción de que qurramor poner información a las imágenes;
 
-HEMOS LOGRADO REPLAZAR NUETRA IMAGEN!
+HEMOS LOGRADO REPLAZAR NUESTRA IMAGEN!
