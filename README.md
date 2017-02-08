@@ -1,4 +1,4 @@
 # CUARTO-BACHILLERATO
 COLEGIO SAN BERNARDINO CUARTO BACHILLERATO EN COMPUTACION
 
-You puedo cambiar esto archivo.
+Yo puedo cambiar esto archivo.
