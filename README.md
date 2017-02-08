@@ -2,3 +2,4 @@
 COLEGIO SAN BERNARDINO CUARTO BACHILLERATO EN COMPUTACION
 
 Yo puedo cambiar esto archivo.
+Maria Cristina 
