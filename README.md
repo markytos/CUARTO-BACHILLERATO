@@ -7,4 +7,7 @@
 4. A mi me gustarria aprender mas sobre los programas
 
 EL PRIMER PROGRAMA
+
 A mi me gusaria ser profecional en softwar e hablar ingles
+
+Yo quiero agradecerle por la ayuda que nos brinda a cada uno de nosotros al haber seguido esta carrera 
