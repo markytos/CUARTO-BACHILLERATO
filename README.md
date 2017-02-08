@@ -10,4 +10,4 @@ EL PRIMER PROGRAMA
 
 A mi me gusaria ser profecional en softwar e hablar ingles
 
-Yo quiero agradecerle por la ayuda que nos brinda a cada uno de nosotros al haber seguido esta carrera ya que es muy importante para cada uno de notros para ser alguin en la vida y en un futuro poder ayudar a los demas
+Yo quiero agradecerle por la ayuda que nos brinda a cada uno de nosotros al haber seguido esta carrera ya que es muy importante para cada uno de notros para ser alguien en la vida y en un futuro poder ayudar a los demas
