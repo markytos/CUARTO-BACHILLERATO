@@ -1,6 +1,7 @@
 ## CUARTO-BACHILLERATO
 # COLEGIO SAN BERNARDINO CUARTO BACHILLERATO EN COMPUTACION
 Pasos para cambiar las imagenes 
+
 1. Descargar imagenes grandes y pequñas
 2. Guardar las imagenes en un lugar bisible.
 3. Abrir el programa de HTML  para hacer los cambios.
