@@ -1,6 +1,6 @@
 # CUARTO-BACHILLERATO
-## COLEGIO SAN BERNARDINO CUARTO BACHILLERATO EN COMPUTACION
+# COLEGIO SAN BERNARDINO CUARTO BACHILLERATO EN COMPUTACION
 
 Yo puedo cambiar esto archivo.
-Maria Cristina 
-A mi me gustarria aprender mas sobre la progranacion.
+reyna de los angeles
+A mi me gustarria aprender mas sobre los programas.
