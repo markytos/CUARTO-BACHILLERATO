@@ -1,25 +1,32 @@
-# CUARTO-BACHILLERATO
-# COLEGIO SAN BERNARDINO CUARTO BACHILLERATO EN COMPUTACION
-#Como podemos reemplazar una imagen por otra distinta?
+#CUARTO-BACHILLERATO
+### COLEGIO SAN BERNARDINO CUARTO BACHILLERATO EN COMPUTACIÓN
+# CÓMO PODEMOS REMPLAZAR UNA IMAGEN POR OTRAS?
 
-1.Buscar la imagen que vamos a cambiar
+1.Buscar la imagen que deseamos remplazar;
 
-2.Buacar la imagen que queremos que aparezca
+2.Buscar nuestra imagen que querramos que eparezca;
 
-3.Vamos a la aplicacion de editor de imagenes
+3.Ir y buscar la aplicacion de editar imagenes;
 
-4.Hacemoslos cambios a la imagen segun el tamaño que necesitamos
+4.Editamos la imagen aplicano el tamaño que necesitemos;
 
-5.Entramos al programa THLM
+5.Entramos al pograma de HTLM;
 
-6.Buscamos nuestra imagen que querramos remplazar con el nombre en THLM
+6.Buscar la imagen que que querramos remplazar con nuestra imagen en HTLM;
 
-7.Guardamos los cambios y terminado cambiamos la imagen por la anterior
+7.Guardamos cambios y listo ya remplazamos una imagen por la anterior;
 
-8.En el programa THLM tambien nos da la opcion de ponerle informacion que necesitemos a las imagenes 
+8.En HTLM también tiene la opción de que qurramor poner información a las imágenes;
 
-LISTO YA HEMOS REEMPLAZADO NUETRA IMAGEN A NUETRO GUSTO...!!!
+HEMOS LOGRADO REPLAZAR NUESTRA IMAGEN!
 
-
-
-
+1.Descargar nuestra imagen.
+2.Seleccionamos la imagen que queremos remplazar.
+3.Ir a la aplicacion para editar nuestra imagen.
+4.Buscamos nuetra imagen que deseamos que aparesca.
+5.cortar nuestra imagen al tamaño ideal.
+6.Ingresamos al programa de HTLM
+7.Buscamos la imagen que deseamos remplazr por la nestra.
+8.Cambiamos el nombre de la imagen anterior por la nuestra.
+9.Guardamos cambios.
+10.CAMBIAMOS NUESTRA IMAGEN.
