@@ -21,12 +21,21 @@
 HEMOS LOGRADO REPLAZAR NUESTRA IMAGEN!
 
 1.Descargar nuestra imagen.
+
 2.Seleccionamos la imagen que queremos remplazar.
+
 3.Ir a la aplicacion para editar nuestra imagen.
+
 4.Buscamos nuetra imagen que deseamos que aparesca.
+
 5.cortar nuestra imagen al tamaño ideal.
+
 6.Ingresamos al programa de HTLM
+
 7.Buscamos la imagen que deseamos remplazr por la nestra.
+
 8.Cambiamos el nombre de la imagen anterior por la nuestra.
+
 9.Guardamos cambios.
+
 10.CAMBIAMOS NUESTRA IMAGEN.
